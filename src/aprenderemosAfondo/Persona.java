@@ -7,7 +7,7 @@ import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;
 import java.util.function.Predicate;
 // Creacion de clase 
-public class Persona  {
+public class Persona {
 	// Definicion de las variables o atributos de la clase 
 	
 	private String nombre;
